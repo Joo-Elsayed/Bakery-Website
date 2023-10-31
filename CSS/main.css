@@ -1,0 +1,230 @@
+    * {
+    margin: 0;
+    }
+
+    .clr {
+    clear: both;
+    }
+
+    #home {
+    background-image: url("../images/drew-coffman-1872.jpg");
+    background-size: 100% 100%;
+    height: 100vh;
+    }
+
+    .navbar img {
+    width: 200px;
+    padding-left: 60px;
+    float: left;
+    }
+
+    .navbar ul {
+    float: right;
+    list-style: none;
+    }
+
+    .navbar ul li {
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+    }
+
+    .navbar li a {
+    color: white;
+    text-decoration: none;
+    }
+
+    #home .caption {
+    text-align: center;
+    padding-top: 200px;
+    color: #fff;
+    }
+
+    #home .caption h1 {
+    font-size: 70px;
+    }
+
+    #home .caption p {
+    font-size: 24px;
+    padding: 15px 0;
+    }
+    #home .caption .btn1,
+    #home .caption .btn2 {
+    padding: 15px 28px;
+    margin: 10px;
+    color: white;
+    background-color: transparent;
+    }
+
+    #home .caption .btn1 {
+    background-color: #8e7754;
+    border: none;
+    }
+
+    #home .caption .btn2 {
+    border: 3px solid #fff;
+    transition: 0.5s;
+    }
+
+    #home .caption .btn2:hover {
+    background-color: #8e7754;
+    }
+
+    #about .about-img {
+    width: 40%;
+    float: left;
+    padding-top: 30px;
+    }
+
+    #about .about-img img {
+    width: 100%;
+    }
+
+    #about .about-info {
+    width: 60%;
+    float: left;
+    text-align: center;
+    padding-top: 90px;
+    }
+
+    #about .about-info h2 {
+    font-size: 30px;
+    }
+
+    #about .about-info p {
+    padding: 15px 80px;
+    line-height: 32px;
+    }
+
+    #about .info-text {
+    text-align: left;
+    }
+
+    #home .about-Info2 {
+    background-color: #f8f8f8;
+    }
+
+    #about .info-img2 {
+    width: 40%;
+    float: right;
+    padding-top: 30px;
+    }
+
+    #about .info-img2 img {
+    width: 100%;
+    }
+
+    #about .about-info2 {
+    width: 60%;
+    float: right;
+    text-align: center;
+    padding-top: 90px;
+    }
+
+    #about .info-text2 {
+    text-align: left;
+    padding: 10px 0;
+    margin: 0 50px;
+    line-height: 32px;
+    }
+
+    #about .about-info2 h3 {
+    font-size: 40px;
+    text-align: left;
+    padding-left: 45px;
+    }
+
+    #about .About-Info {
+    text-align: center;
+    }
+
+    #about .A-image {
+    width: 31%;
+    display: inline-block;
+    text-align: center;
+    margin: 0 10px;
+    }
+
+    #about .A-image img {
+    width: 80%;
+    }
+
+    #about .image {
+    line-height: 32px;
+    }
+
+    #about .p1 {
+    font-size: 30px;
+    }
+
+    #about .About-Info p {
+    padding: 20px 0;
+    }
+
+    #about .About-Info h4 {
+    font-size: 40px;
+    }
+
+    #about .google-map {
+    background-color: #f8f8f8;
+    }
+
+    #about .maping {
+    padding: 20px 0;
+    line-height: 32px;
+    }
+
+    #about .Map {
+    width: 40%;
+    float: left;
+    }
+
+    #about .ALL {
+    float: left;
+    width: 50%;
+    padding-left: 50px;
+    }
+
+    #about h5 {
+    font-size: 30px;
+    }
+
+    #about .text-map {
+    padding: 10px 0;
+    }
+
+    #about .text-map p {
+    padding: 10px 0;
+    }
+
+    #about .contact {
+    font-size: 25px;
+    }
+
+    #footer {
+    padding-top: 100px;
+    background-color: #353330;
+    }
+
+    #footer .footer-img img {
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+    }
+
+    #footer p {
+    text-align: center;
+    }
+
+    #footer .logo img {
+    width: 150px;
+    height: 30px;
+    display: block;
+    margin: 0 auto;
+    padding: 5px 0;
+    }
+
+    #footer p {
+    padding: 10px 0;
+    color: #635d51;
+    }
